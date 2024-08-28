@@ -1,0 +1,21 @@
+{
+  "name": "fireNext",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Markwang-MC/next.git"
+  },
+  "keywords": [
+    "nodejs",
+    "fireNext",
+    "expressjs",
+    "async solution"
+  ],
+  "author": "jimmy.w.xuanyu@gmail.com",
+  "license": "ISC",
+  "description": ""
+}
