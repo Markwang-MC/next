@@ -6,8 +6,6 @@ function readFile(path){
         })
     })
 }
-
-
 readFile('./a')
 .then((data)=>{
     if (data) return readFile('./b')
